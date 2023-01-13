@@ -4,6 +4,7 @@ body {
       'Segoe UI Symbol', 'Noto Color Emoji';
    padding-top: 54px;
    color: #34495e;
+   user-select: none;
 }
 
 @media (min-width: 992px) {
