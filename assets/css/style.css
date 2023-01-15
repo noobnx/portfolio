@@ -124,11 +124,6 @@ em.subheading-welcome {
       margin: auto auto 0;
       padding: 0.5rem;
    }
-   #sideNav .navbar-brand .img-profile {
-      max-width: 11rem;
-      max-height: 11rem;
-      border: 0.5rem solid rgba(255, 255, 255, 0.4);
-   }
    #sideNav .navbar-collapse {
       display: -webkit-box;
       display: -ms-flexbox;
